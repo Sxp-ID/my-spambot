@@ -1,0 +1,11 @@
+bs4
+rich
+httpie
+blessed
+requests
+inquirer
+pypasser
+cloudscraper
+fake-useragent
+beautifulsoup4
+requests-toolbelt
