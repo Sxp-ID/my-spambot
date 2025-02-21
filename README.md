@@ -19,7 +19,7 @@ $ make run
 </details>
 
 ## Full tutorialnya?
-- Link video <code><a href="">klik disini</a></code>
+- Link video <code><a href="https://youtu.be/UjDdCaVptSQ?si=JEa8MlUozvyJkOeM">klik disini</a></code>
 - Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">FREE TUTORIAL</a></code>
 <div align="center">
 
